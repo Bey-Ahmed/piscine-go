@@ -1,0 +1,1 @@
+ls -mpt | sed 's/ *//g'
